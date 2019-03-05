@@ -1,12 +1,3 @@
-/**
- *
- * @author Berkin Yılmaz berkin.yilmaz1@ogr.sakarya.edu.tr
- * @since 03.03.2019
- * <p>
- * Bu projede c kodu içerisinde yer alan; toplam operatör sayısı, toplam
- * fonksiyon sayısı ve toplam parametre sayısı bulunmaktadır.
- * </p>
- */
 package javaapplication4;
 
 import java.io.*; //.io kütüphanesini ekledik.
